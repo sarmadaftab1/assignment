@@ -1,0 +1,376 @@
+.navbar{
+    border-radius: 30px;
+    padding: 25px;
+    display: flex;
+}
+.navbar ul{
+    overflow: auto;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    padding-left: 10px;
+    text-align: center;
+}
+.navbar li{
+    /* float:left; */
+    list-style: none; 
+    margin: 13px 20px;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: black;
+}
+.navbar li a:hover{
+    color: red
+}
+.search{
+    display: flex;
+    float: right;
+    border: none;
+}
+.navbar input{
+    border: none;
+    padding: 3px 17px;
+    width: 129px;
+    box-shadow: 1px 1px 1px grey;
+}
+
+
+#one
+{
+    display: flex;
+    background-color: #F8F2ED;
+
+}
+.one-text
+{
+    max-width: 50%;
+    padding-left: 5%;
+    padding-bottom: 8%;
+}
+.one-text h1
+{
+    font-size: 50px;
+}
+.one-img
+{
+    min-width: 70%;
+}
+.text-size
+{
+    max-width: 100%;
+
+}
+.img2
+{
+margin-left: 35%;
+margin-top: 5%;
+}
+.img1
+{
+    position: relative;
+    right: 24.5%;
+    top: 5%;
+}
+.imggroup
+{
+    position: relative;
+    right: 35.5%;
+    top: 9%;
+}
+
+/* section two */
+#two
+{
+    display: flex;
+    padding-left: 15%;
+}
+.img3,.img4,.img5
+{
+    padding-left: 5%;
+    margin-top: -5%;
+}
+
+/* section three */
+#three
+{
+    display: flex;
+    padding-left: 2%;
+    margin-top: 3%;
+}
+ h1
+{
+    font-size: 40px;
+   margin-top: 8%;
+    padding-left: 2%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li a {
+    color: black;
+    width: 60px;
+    text-decoration: none;
+}
+.vertical-bar
+{
+    max-width: 30%;
+    padding-left: 2%;
+    padding-right: 8%;
+}
+.vertical-bar a{
+    padding-left: 5px;
+}
+.vertical-bar a:hover{
+    border-left: 1px solid orange;
+}
+
+.img7
+{
+   
+position: relative;
+top: 23px;
+left: 75px;
+    
+}
+.img8
+{
+   
+position: relative;
+left: 95px;
+top: 23px;
+    
+}
+.img9
+{
+   
+position: relative;
+left: 115px;
+top: 23px;
+    
+}
+.img10
+{
+   
+position: relative;
+right: 50%;
+top: 63px;
+    
+}
+.img11
+{
+   
+position: relative;
+right: 40%;
+top: 63px;
+    
+}
+.img12
+{
+   
+position: relative;
+right: -56%;
+top: 30px;
+    
+}
+.tag
+{
+    padding-top: 10%;
+}
+.tag
+{
+    padding-top: 10%;
+}
+
+/* section four */
+
+#four
+{
+    display: flex;
+    background-color: #F0F2FF;
+    margin-top: 10%;
+
+}
+.four-text
+{
+    max-width: 50%;
+    padding-right: 25%;
+    padding-bottom: 8%;
+    padding-top: 3%;
+}
+.four-text h1
+{
+    font-size: 40px;
+
+}
+
+.four-img
+{
+    min-width: 50%;
+}
+.text-size
+{
+    max-width: 100%;
+
+}
+.img13
+{
+    position: relative;
+    left: 0.5%;
+    top: 4%;
+}
+.img14
+{
+    position: relative;
+    right: -50.5%;
+    top: 11%;
+}
+
+/* section five */
+.one1
+{
+    font-size: 40px;
+    margin-top: 10%;
+    text-align: center;
+    /* padding-left: 15%; */
+}
+.one2
+{
+    text-align: center;
+    margin-top: -19px;
+}
+#five
+{  margin-top: 5%;
+    display: flex;
+    padding-left: 15%;
+}
+.img16,.img17,.img18
+{
+    padding-left: 8.5%;
+ 
+}
+.img19
+{
+    position: relative;
+ 
+    top: 100%;
+    left: 24%;
+}
+.img20
+{
+    position: relative;
+ 
+    top: 50%;
+    left: 34%;
+}
+.img21
+{
+    position: relative;
+ 
+    top: 50%;
+    left:45%;
+}
+#five-2
+{  margin-top: 1%;
+    display: flex;
+    padding-left: 15%;
+}
+.img22,.img23,.img24
+{
+    padding-left: 8.5%;
+ 
+}
+.img25
+{
+    position: relative;
+ 
+    top: 100%;
+    left: 24%;
+}
+.img26
+{
+    position: relative;
+ 
+    top: 50%;
+    left: 34%;
+}
+.img27
+{
+    position: relative;
+ 
+    top: 50%;
+    left: 45%;
+}
+
+/* section six */
+#six
+{
+    display: flex;
+    margin-top: 8%;
+    padding-left: 14%;
+
+}
+.six-text
+{
+    max-width: 50%;
+    padding-left: 5%;
+    padding-bottom: 8%;
+}
+.six-text h1
+{
+    font-size: 50px;
+}
+.six-img
+{
+    min-width: 70%;
+    
+}
+.text-size
+{
+    max-width: 100%;
+    padding-left: 0;
+
+}
+.img28
+{
+    padding-top: 5%;
+}
+.img29
+{
+    position: relative;
+    left: -30.7%;
+    top: 12%;
+}
+.img30
+{
+    position: relative;
+    right:-4.7%;
+    top: 7%;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    
+}
+h4{
+    text-align: left;
+}
+.about , .products , .Discover{
+    color:#FFFFFF ;
+    margin: auto;
+    padding: 50px;
+}
+.about a, .products a, .Discover a{
+    color: rgba(255, 255, 255, 0.8);font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 33px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
